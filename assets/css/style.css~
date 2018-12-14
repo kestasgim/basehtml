@@ -1,0 +1,18 @@
+h1{
+	color: red;
+}
+h1:hover{
+	color:green;
+	text-decoration: underline;
+}
+a:visited{
+	color: pink;
+}
+
+.main-heading{
+	color: blue;
+}
+
+li:nth-child(2){
+	color: cyan;
+}
